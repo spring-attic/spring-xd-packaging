@@ -1,3 +1,5 @@
+# spring-xd-packaging is no longer actively maintained by VMware, Inc.
+
 # spring-xd-packaging
 
 Packaging and release code and artifacts for Spring XD
